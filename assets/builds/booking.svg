@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230">
+<defs><linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0EA5E9"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#0EA5E9" opacity=".16"/></pattern>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="1"><stop offset=".5" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<mask id="dm"><rect width="400" height="230" fill="url(#fade)"/></mask>
+<clipPath id="c"><rect width="400" height="230" rx="18"/></clipPath><style>text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}.m,.m text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style></defs>
+<g clip-path="url(#c)">
+<rect width="400" height="230" fill="#FFFFFF"/>
+<rect width="400" height="230" fill="url(#dots)" mask="url(#dm)"/>
+<rect width="400" height="4" fill="url(#acc)"/>
+<g fill="none" stroke-width="1.6" stroke-linecap="round" opacity=".55"><path d="M300 200H340L356 184H400" stroke="#0EA5E9"/><path d="M320 214H372L380 206" stroke="#10B981"/></g>
+<circle cx="300" cy="200" r="3" fill="#0EA5E9"/><circle cx="320" cy="214" r="3" fill="#10B981"/>
+</g>
+<rect x="0.5" y="0.5" width="399" height="229" rx="18" fill="none" stroke="#DCEBF5"/>
+<rect x="28" y="28" width="52" height="52" rx="14" fill="#D1FAE5"/>
+<g transform="translate(54 54)" fill="none" stroke="#047857" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><rect x="-14" y="-12" width="28" height="26" rx="4"/><path d="M-14-4h28M-7-16v7M7-16v7M-6 5l4 4 8-8"/></g>
+<rect x="96" y="40" width="96" height="26" rx="7" fill="#D1FAE5"/>
+<text class="m" x="144.0" y="58" text-anchor="middle" font-size="12" font-weight="700" fill="#047857">#backend</text>
+<text x="28" y="122" font-size="24" font-weight="800" fill="#0F172A">Booking System</text>
+<text x="28" y="152" font-size="15" fill="#475569">Backend for a booking system —</text>
+<text x="28" y="174" font-size="15" fill="#475569">APIs, data and business workflows.</text>
+<text class="m" x="28" y="206" font-size="13" font-weight="700" fill="#0284C7">view repo <tspan fill="#10B981">→</tspan></text>
+</svg>
