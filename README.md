@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(max-width: 640px)" srcset="assets/header-mobile.svg" />
-  <img width="100%" src="assets/header.svg" alt="Hello there, I'm Thach Nguyen — Fullstack Developer. Build with purpose. Optimize with AI." />
+  <img width="100%" src="assets/header.svg" alt="Hello there, I'm Thach Nguyen — Fullstack Developer. Dream big. Start small." />
 </picture>
 
 <br/>

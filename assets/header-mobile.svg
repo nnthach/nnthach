@@ -28,8 +28,8 @@
 <text class="m" x="68" y="65" font-size="14" fill="#0369A1">// fullstack developer</text>
 <text x="34" y="148" font-size="58" font-weight="800" fill="#0F172A" letter-spacing="-1.5">Thach Nguyen</text>
 <rect x="36" y="170" width="84" height="5" rx="2.5" fill="url(#acc)"/>
-<text x="36" y="214" font-size="20" font-weight="600" fill="#334155">Build with purpose.</text>
-<text x="36" y="242" font-size="20" font-weight="600" fill="#059669">Optimize with AI.</text>
+<text x="36" y="214" font-size="20" font-weight="600" fill="#334155">Dream big.</text>
+<text x="36" y="242" font-size="20" font-weight="600" fill="#059669">Start small.</text>
 <g class="m" font-size="13" font-weight="600">
 <rect x="36" y="274" width="110" height="30" rx="8" fill="#E0F2FE"/><text x="91" y="294" text-anchor="middle" fill="#0369A1">web apps</text>
 <rect x="156" y="274" width="166" height="30" rx="8" fill="#D1FAE5"/><text x="239" y="294" text-anchor="middle" fill="#047857">backend systems</text>
